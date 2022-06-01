@@ -1,0 +1,10 @@
+C:\Users\CC-Mehdi\Desktop\Library\Library_1.0\Library_1.0\bin\Debug\Library_1.0.exe.config
+C:\Users\CC-Mehdi\Desktop\Library\Library_1.0\Library_1.0\bin\Debug\Library_1.0.exe
+C:\Users\CC-Mehdi\Desktop\Library\Library_1.0\Library_1.0\bin\Debug\Library_1.0.pdb
+C:\Users\CC-Mehdi\Desktop\Library\Library_1.0\Library_1.0\obj\Debug\Library_1.0.csprojResolveAssemblyReference.cache
+C:\Users\CC-Mehdi\Desktop\Library\Library_1.0\Library_1.0\obj\Debug\Library_1._0.Form1.resources
+C:\Users\CC-Mehdi\Desktop\Library\Library_1.0\Library_1.0\obj\Debug\Library_1._0.Properties.Resources.resources
+C:\Users\CC-Mehdi\Desktop\Library\Library_1.0\Library_1.0\obj\Debug\Library_1.0.csproj.GenerateResource.Cache
+C:\Users\CC-Mehdi\Desktop\Library\Library_1.0\Library_1.0\obj\Debug\Library_1.0.exe
+C:\Users\CC-Mehdi\Desktop\Library\Library_1.0\Library_1.0\obj\Debug\Library_1.0.pdb
+C:\Users\CC-Mehdi\Desktop\Library\Library_1.0\Library_1.0\obj\Debug\Library_1._0.Login.resources
